@@ -1,1 +1,0 @@
-import{d as e,o,c as s,t as n,_ as a}from"./framework.Bvf0s3xm.js";const c={class:"btn"},_=e({__name:"CBtn",props:["text"],setup(t){return(r,p)=>(o(),s("button",c,n(t.text),1))}}),m=a(_,[["__scopeId","data-v-379a71b8"]]);export{m as C};
